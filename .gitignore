@@ -15,3 +15,6 @@ lshort-title.pdf
 *.ist
 *.bak*
 *~
+.devcontainer/
+.github/
+.vscode/
